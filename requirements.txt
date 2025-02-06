@@ -1,3 +1,5 @@
 audio-recorder-streamlit==0.0.10
-openai==1.60.1
+gTTS==2.5.4
 streamlit==1.41.1
+requests==2.32.3
+whisper-openai==1.0.0
